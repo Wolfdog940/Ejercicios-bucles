@@ -9,7 +9,7 @@ do {
     console.log(multiplicacion);
 
 
-} while (multiplicacion <= 1001)
+} while (multiplicacion <= 1000)
 
 
 
